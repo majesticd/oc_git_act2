@@ -1,0 +1,2 @@
+Création du fichier avec GitBash
+Modification de l'entension de rien a .txt
